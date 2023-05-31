@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "067220025245.dkr.ecr.ap-northeast-2.amazonaws.com/fastapi-test:latest",
+    "Name": "public.ecr.aws/g8f7f0e2/fastapi-docker-test:latest",
     "Update": "true"
   },
   "Ports": [
